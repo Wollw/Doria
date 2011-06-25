@@ -1,1 +1,3 @@
 Requires jQuery
+
+This is a simple tile based movement system similar in look to older games like Final Fantasy or Exile.  At this point there isn't much other than movement implemented.
