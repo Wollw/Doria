@@ -1,0 +1,7 @@
+body	{ color:white; text-align:center; background-color:gray;}
+canvas { border: 1px solid white; }
+textarea { color:white; background-color:gray;}
+div#banner {font-size: 48pt;}
+div#mapZone {font-weight:bold;}
+div#mapName {font-size:small;}
+
